@@ -248,8 +248,8 @@ nav div{
 }
 
 .footer{
-    border-top: 2px solid lime;
-    background: linear-gradient(rgb(2, 2, 56) ,black 70%);
+    border-top: 2px solid green;
+    background: linear-gradient(rgb(69, 69, 69) ,black 75%);
     align-content: center;
     height: 100px;
     width: 100%;
